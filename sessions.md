@@ -95,6 +95,7 @@
 - AWS Cli: http://bit.ly/2goIaCT
 - Optimizing Network Performance for Amazon EC2 Instances: http://bit.ly/2hiMmbO
 - Architecting Next Generation SaaS on AWS: http://bit.ly/2hiObG5
+- Elastic Load Balancing Deep Dive and Best Practices (NET403): https://youtu.be/qy7zNaDTYGQ
 
 ####Enterprise
 - Deploying Scalable SAP Hybris Clusters using Docker: http://bit.ly/2hiI3gW
