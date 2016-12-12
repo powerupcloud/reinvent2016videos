@@ -1,4 +1,4 @@
-###AWS Re:Invent Sessions and Deep Dives
+###AWS Re:Invent 2016 Sessions and Deep Dives
 
 ####Security
 - Automated Governanance of AWS Resources: http://bit.ly/2gowC2K
