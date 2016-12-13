@@ -3,7 +3,7 @@
 ####Security
 - Automated Governanance of AWS Resources: http://bit.ly/2gowC2K
 - Lessons for a Chief Security Officer: http://bit.ly/2goDInK
-- Architectring for End to End Security: http://bit.ly/2goJOon
+- Architecting for End to End Security: http://bit.ly/2goJOon
 - Security Automation using AWS WAF: http://bit.ly/2goDOvF
 - Mitigating DDoS attacks on AWS: http://bit.ly/2goHWf1
 - Architecting Security and Governance Across a Multi-Account Strategy : http://bit.ly/2hiHK5F
