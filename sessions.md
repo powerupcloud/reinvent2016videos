@@ -19,7 +19,7 @@
 - Introduction to Container Management on AWS: http://bit.ly/2gozCw2
 - Immutable Infrastructure on Production: http://bit.ly/2goIhhU
 - Automated DevOps and Continuous Delivery: http://bit.ly/2hiHpzL
-- Continuous Delivery TEchniques: http://bit.ly/2hiECqA
+- Continuous Delivery Techniques: http://bit.ly/2hiECqA
 - Continuous Delivery using CloudFormation: http://bit.ly/2hiI3xo
 - DevOps on AWS. Accelerating Software Delivery with AWS Developer Tools: http://bit.ly/2hiKPms
 - DevOps Pipeline Security: http://bit.ly/2hiHyDx
