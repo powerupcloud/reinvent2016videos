@@ -96,6 +96,7 @@
 - Optimizing Network Performance for Amazon EC2 Instances: http://bit.ly/2hiMmbO
 - Architecting Next Generation SaaS on AWS: http://bit.ly/2hiObG5
 - Deep Dive on Amazon Elastic Block Store (STG301): https://youtu.be/1AHmTmCkdp8
+- Deep Dive on Amazon EC2 Instances, Featuring Performance Optimization (CMP301): https://youtu.be/agQMFIWr2h4
 
 ####Enterprise
 - Deploying Scalable SAP Hybris Clusters using Docker: http://bit.ly/2hiI3gW
